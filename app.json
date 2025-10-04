@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2810fd07-a018-49b4-a06d-48c87f55ef4d"
+      }
+    },
+    "owner": "nikalomiashvili",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/2810fd07-a018-49b4-a06d-48c87f55ef4d"
     }
   }
 }
